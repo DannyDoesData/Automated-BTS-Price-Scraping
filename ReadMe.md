@@ -1,4 +1,4 @@
-# 🌐 Automated BTC Price Scraping From CoinMarketCap 🌐
+# 🌐Automated BTC Price Scraping From CoinMarketCap🌐
 
 ### Project goal 🎯
 
